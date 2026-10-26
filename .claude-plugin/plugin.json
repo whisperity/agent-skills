@@ -1,0 +1,14 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "whisperity-agent-skills",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Whisperity's collection of AI agent skills",
+  "author": {
+    "name": "Whisperity",
+    "email": "whisperity-packages@protonmail.com",
+    "url": "https://github.com/Whisperity"
+  },
+  "homepage": "https://github.com/Whisperity/agent-skills",
+  "repository": "https://github.com/Whisperity/agent-skills"
+}

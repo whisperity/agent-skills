@@ -1,2 +1,1 @@
-# agent-skills-private
-🧠📜 AI Agent
+# 🧠📜 AI Agent Skills
