@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "whisperity-agent-skills",
+  "description": "Whisperity's collection of AI agent skills",
+  "owner": {
+    "name": "Whisperity",
+    "email": "whisperity-packages@protonmail.com",
+    "url": "https://github.com/Whisperity"
+  },
+  "plugins": [
+    {
+      "name": "whisperity-agent-skills",
+      "description": "Whisperity's collection of AI agent skills",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Whisperity/agent-skills"
+    }
+  ]
+}
